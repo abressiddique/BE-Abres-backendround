@@ -1,36 +1,39 @@
-# Abres Backend Interview Round - Contacts API
+# 🚀 Backend Interview Round – Contacts API
 
+Welcome to **Abres Backend Interview Round – Contacts API**.  
+This project is designed to demonstrate **core backend development concepts** through a real-world RESTful API implementation.
 
-This project is part of the backend interview round for Abres. It demonstrates the implementation of a RESTful API for managing a contact list, including features such as creating, reading, updating, and deleting contact entries.
+If you're a student, fresher, or someone preparing for **backend technical interview rounds**, mastering this repository will give you **~90% clarity on how backend systems work in practice**.
+
+This repo focuses on clean API design, database integration, middleware handling, and structured backend architecture — exactly what interviewers look for.
+
+---
+
+## 📌 Project Overview
+
+A fully functional **Contacts Management REST API** that allows users to:
+
+- Create new contacts  
+- Retrieve all contacts  
+- Fetch a single contact by ID  
+- Update contact details  
+- Delete contacts  
+
+It follows standard REST principles and industry-style backend folder structuring.
+
+---
 
 ## 🛠 Tech Stack
 
-- **Node.js**
-- **Express.js**
-- **MongoDB** with **Mongoose**
-- **RESTful API Design**
-- **Postman** (for API testing)
+- **Node.js** – Runtime environment  
+- **Express.js** – Web framework  
+- **MongoDB** – NoSQL database  
+- **Mongoose** – ODM for MongoDB  
+- **Middleware Architecture**  
+- **RESTful API Design**  
+- **Postman** – API testing  
 
-## 📁 Features
+---
 
-- Add a new contact
-- View all contacts
-- Get a single contact by ID
-- Update contact information
-- Delete a contact
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js & npm
-- MongoDB (local or Atlas)
-- Git
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AYZAAL/BE-Abres-backendround.git
-   cd BE-Abres-backendround
+## 📂 Folder Structure
 
